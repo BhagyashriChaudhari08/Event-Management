@@ -1,0 +1,4 @@
+<aura:component implements="force:appHostable,forceCommunity:availableForAllPageTypes">
+<link href='https://eternusrnd-dev-ed--c.ap2.visual.force.com/resource/Bootstrap/' rel="stylesheet"/>
+
+</aura:component>

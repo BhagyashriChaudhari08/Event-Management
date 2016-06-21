@@ -1,0 +1,17 @@
+{
+    "projectName": "Events",
+    "username": "bhagyashri.lightningdemo@lightning.com",
+    "id": "85b00090-377e-11e6-baf8-5170b9b3b2ce",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "D:/EventManagement",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
